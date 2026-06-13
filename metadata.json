@@ -1,7 +1,0 @@
-{
-  "name": "IPTV Extractor",
-  "description": "Extract and organize IPTV channels from M3U playlist URLs.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
